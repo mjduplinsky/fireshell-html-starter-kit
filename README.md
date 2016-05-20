@@ -79,3 +79,13 @@ if [ ! -d node_modules ];then
     sudo npm install
 fi
 grunt
+
+### Developing
+Double-click the `grunt-dev.command` file and get developing, Grunt will report any errors with your code back to you on the command-line, even the line number. All CSS and JavaScript is uncompressed in development.
+
+### Deploying
+Just fire up the `grunt-build.command` file and your `src` directory files will be compiled into the `app` folder, but this time they're minified and ready to push onto a server environment.
+
+
+
+
