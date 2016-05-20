@@ -7,6 +7,9 @@ Runs on both Mac OS X, Linux and Windows. Automated command-line scripts are onl
 ## Usage
 
 Required: Node, Git, Grunt.
+Run `npm install`
+During development `grunt-dev.command`
+To Build `grunt-build.command`
 
 ## Features
 
