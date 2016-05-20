@@ -44,6 +44,7 @@ Required: Node, Git, Grunt.
 │   └── index.html
 ├── src
 │   ├── js
+│   │   └── plugins
 │   │   └── scripts.js
 │   └── scss
 │       ├── mixins
