@@ -79,6 +79,7 @@ if [ ! -d node_modules ];then
     sudo npm install
 fi
 grunt
+````
 
 ### Developing
 Double-click the `grunt-dev.command` file and get developing, Grunt will report any errors with your code back to you on the command-line, even the line number. All CSS and JavaScript is uncompressed in development.
